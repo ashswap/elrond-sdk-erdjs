@@ -1,7 +1,5 @@
 .idea
-out
 out-tests
-out-browser
 out-browser-tests
 node_modules/
 tags
